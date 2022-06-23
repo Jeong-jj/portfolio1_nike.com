@@ -5,4 +5,3 @@ Nike.com 에 대한 클론코딩
 
 site구성에 대한 이해
 header 작성
-slick-slide의 사용
